@@ -4,59 +4,41 @@
       "categorienotificare":"Hydrogen",
       "textnotificare":"Text",
       "datatrimitere":"11/04/2020",
-      "canaltrimitere":"SAP",
-      "emailclient":"test_1@test.ro",
-      "codclient":"1000001",
-      "statustrimitere":"failed"
+      "canaltrimitere":"SAP"
    },
    {
       "id":2,
       "categorienotificare":"Hydrogen",
       "textnotificare":"Text",
       "datatrimitere":"11/04/2020",
-      "canaltrimitere":"SAP",
-      "emailclient":"test_1@test.ro",
-      "codclient":"1000001",
-      "statustrimitere":"failed"
+      "canaltrimitere":"SAP"
    },
    {
       "id":3,
       "categorienotificare":"Hydrogen",
       "textnotificare":"Text",
       "datatrimitere":"11/04/2020",
-      "canaltrimitere":"SAP",
-      "emailclient":"test_1@test.ro",
-      "codclient":"1000001",
-      "statustrimitere":"failed"
+      "canaltrimitere":"SAP"
    },
    {
       "id":4,
       "categorienotificare":"Hydrogen",
       "textnotificare":"Text",
       "datatrimitere":"11/04/2020",
-      "canaltrimitere":"SAP",
-      "emailclient":"test_1@test.ro",
-      "codclient":"1000001",
-      "statustrimitere":"failed"
+      "canaltrimitere":"SAP"
    },
    {
       "id":5,
       "categorienotificare":"Hydrogen",
       "textnotificare":"Text",
       "datatrimitere":"11/04/2020",
-      "canaltrimitere":"SAP",
-      "emailclient":"test_1@test.ro",
-      "codclient":"1000001",
-      "statustrimitere":"failed"
+      "canaltrimitere":"SAP"
    },
    {
       "id":6,
       "categorienotificare":"Hydrogen",
       "textnotificare":"Text",
       "datatrimitere":"11/04/2020",
-      "canaltrimitere":"SAP",
-      "emailclient":"test_1@test.ro",
-      "codclient":"1000001",
-      "statustrimitere":"failed"
+      "canaltrimitere":"SAP"
    }
 ]
